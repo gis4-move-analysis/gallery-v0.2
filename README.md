@@ -7,4 +7,4 @@ Normalized visualization with yearly code in 17 individuals of Wood Stork (M. am
 
 Basille M, Borkhataria RR, Bryan AL, Bucklin DN, Picardi S, Frederick PC (2021) Data from: Study "Wood stork (Mycteria americana) Southeastern US 2004–2019". Movebank Data Repository. [doi:10.5441/001/1.r0h6725k](doi:10.5441/001/1.r0h6725k)
 
-![wood-stork-gif](gif/wood-stork-gif)
+![wood-stork-gif](gif/wood-stork-gif.gif)
