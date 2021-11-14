@@ -13,4 +13,4 @@ Galápagos albatrosses with stop detection algorithm (movingpandas) as Kernel De
 
 Dodge et al, 2013. The Environmental-Data Automated Track Annotation (Env-DATA) System. Movebank  [doi:10.5441/001/1.3hp3s250](doi:10.5441/001/1.3hp3s250)
 
-![albatrosses-gif](gif/stops-galapagos-gif.gif)
+![albatrosses-gif](gif/stops-gif.gif)
